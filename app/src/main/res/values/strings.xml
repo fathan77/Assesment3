@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cinema Film</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_Film">Tambah Film</string>
+    <string name="nama">Nama</string>
+    <string name="nama_pembuat">Nama Pembuat</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="delete">Hapus</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_delete_text">Confirm Delete</string>
+</resources>
